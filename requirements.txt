@@ -1,0 +1,7 @@
+winrt-runtime==4.1.0
+winrt-windows-devices-bluetooth==4!10.0.28000.2957
+winrt-windows-devices-bluetooth-genericattributeprofile==4!10.0.28000.2957
+winrt-windows-devices-enumeration==4!10.0.28000.2957
+winrt-windows-storage-streams==4!10.0.28000.2957
+winrt-windows-foundation==4!10.0.28000.2957
+winrt-windows-foundation-collections==4!10.0.28000.2957
